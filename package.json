@@ -2,7 +2,7 @@
   "name": "pact-practice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://userili.github.io/",
+  "homepage": "https://userili.github.io/userili.github.io",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.18",
     "@chakra-ui/react": "^2.5.5",
